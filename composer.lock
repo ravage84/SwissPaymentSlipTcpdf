@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b3159b423b09657bf8bb83527661e3b6",
+    "hash": "a7906685e336b8a233c665ce43c83286",
     "packages": [
         {
             "name": "swiss-payment-slip/swiss-payment-slip",

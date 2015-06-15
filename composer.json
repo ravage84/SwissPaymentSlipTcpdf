@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "tecnick.com/tcpdf": "6.2.*",
+        "tecnick.com/tcpdf": "^6.2.0",
         "swiss-payment-slip/swiss-payment-slip-pdf": "^0.14.0"
     },
     "require-dev": {

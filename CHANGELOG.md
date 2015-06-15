@@ -13,11 +13,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Updated PHP dependency to 5.4 or higher
 - Updated version of swiss-payment-slip/swiss-payment-slip-pdf dependency to a more relaxed ^0.14.0
-- Relaxed version of tecnick.com/tcpdf dependency to 6.2.*
 - Added PDFs generated through the examples to the ignore list
 - Changed to short array syntax
 - Updated phpunit/phpunit development dependency to version ^4.0.0
 - Updated squizlabs/php_codesniffer development dependency to version ^2.1.0
+- Updated version of tecnick.com/tcpdf dependency to ^6.2.0
 
 ### Fixed
 - Various minor fixes (change log, examples, doc blocks & CS)
