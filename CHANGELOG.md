@@ -17,6 +17,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Added PDFs generated through the examples to the ignore list
 - Changed to short array syntax
 - Updated phpunit/phpunit development dependency to version ^4.0.0
+- Updated squizlabs/php_codesniffer development dependency to version ^2.1.0
 
 ### Fixed
 - Various minor fixes (change log, examples, doc blocks & CS)
