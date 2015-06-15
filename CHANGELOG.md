@@ -8,6 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Added testing with PHP 7.0 & HHVM to Travis, allow failures
 
 ### Changed
+- Updated PHP dependency to 5.4 or higher
 - Relaxed version of swiss-payment-slip/swiss-payment-slip-pdf dependency to 0.13.*
 - Relaxed version of tecnick.com/tcpdf dependency to 6.2.*
 - Added PDFs generated through the examples to the ignore list
