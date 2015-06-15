@@ -6,6 +6,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Added note about OCR-B to the requirements in the README
 - Added testing with PHP 7.0 & HHVM to Travis, allow failures
+- "composer test" command executing phpunit
+- "composer check-codestyle" command executing phpcs
+- "composer fix-checkstyle" command executing phpcbf
 
 ### Changed
 - Updated PHP dependency to 5.4 or higher
