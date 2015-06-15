@@ -31,7 +31,7 @@ class PaymentSlipTcpdf extends PaymentSlipPdf
      *
      * @var array
      */
-    protected $rgbColors = array();
+    protected $rgbColors = [];
 
     /**
      * The PDF engine object to generate the PDF output with
@@ -164,7 +164,7 @@ class PaymentSlipTcpdf extends PaymentSlipPdf
     protected function hex2RGB($hexStr, $returnAsString = false, $separator = ',')
     {
         $hexStr = preg_replace("/[^0-9A-Fa-f]/", '', $hexStr); // Gets a proper hex string
-        $rgbArray = array();
+        $rgbArray = [];
         if (strlen($hexStr) == 6) {
             // If a proper hex code, convert using bitwise operation. No overhead... faster
             $colorVal = hexdec($hexStr);
