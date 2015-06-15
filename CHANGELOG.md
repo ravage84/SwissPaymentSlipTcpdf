@@ -9,7 +9,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - Updated PHP dependency to 5.4 or higher
-- Relaxed version of swiss-payment-slip/swiss-payment-slip-pdf dependency to 0.13.*
+- Updated version of swiss-payment-slip/swiss-payment-slip-pdf dependency to a more relaxed ^0.14.0
 - Relaxed version of tecnick.com/tcpdf dependency to 6.2.*
 - Added PDFs generated through the examples to the ignore list
 - Changed to short array syntax
