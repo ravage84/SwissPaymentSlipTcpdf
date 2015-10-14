@@ -9,6 +9,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 
+## [0.13.1](https://github.com/ravage84/SwissPaymentSlipTcpdf/releases/tag/0.13.1) - 2015-10-14
+### Changed
+- Updated dependency from abandoned tecnick.com/tcpdf to tecnickcom/tcpdf
+- Updated TCPDF dependency to 6.2.12
+- Updated the development dependencies
+
 ## [0.13.0](https://github.com/ravage84/SwissPaymentSlipTcpdf/releases/tag/0.13.0) - 2015-06-15
 ### Added
 - Added note about OCR-B to the requirements in the README
